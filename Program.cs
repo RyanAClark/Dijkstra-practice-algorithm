@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Ryan Clark Dijkstra practice
 namespace Dijkstra
 {
     public class Vertex
