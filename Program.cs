@@ -118,7 +118,7 @@ namespace Dijkstra
             edges.Add(connect2);
         }
     }
-
+    
     class Program
     {
         static void Main(string[] args)
